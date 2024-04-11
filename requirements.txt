@@ -1,0 +1,8 @@
+imutils
+opencv-contrib-python
+opencv-python==4.5.5.64  
+dlib
+numpy
+cmake
+scipy
+Pillow
